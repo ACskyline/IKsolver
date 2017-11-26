@@ -1,0 +1,351 @@
+HIERARCHY
+ROOT Hips
+{
+  OFFSET 0 96.3794 3.98552
+  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+  JOINT Spine
+  {
+    OFFSET 0 0 0
+    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+    JOINT Spine1
+    {
+      OFFSET 0 0 0
+      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+      JOINT Spine2
+      {
+        OFFSET 0 0 0
+        CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+        JOINT Neck
+        {
+          OFFSET 0 0 0
+          CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+          JOINT Neck1
+          {
+            OFFSET 0 0 0
+            CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+            JOINT Head
+            {
+              OFFSET 0 0 0
+              CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+              End Site
+              {
+                OFFSET 0 23.0297 0.1231
+              }
+            }
+          }
+        }
+        JOINT LeftShoulder
+        {
+          OFFSET 0 0 0
+          CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+          JOINT LeftArm
+          {
+            OFFSET 0 0 0
+            CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+            JOINT LeftForeArm
+            {
+              OFFSET 0 0 0
+              CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+              JOINT LeftHand
+              {
+                OFFSET 27.8738 0 0
+                CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                JOINT LeftHandThumb1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT LeftHandThumb2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT LeftHandThumb3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET 2.6 -1 1
+                      }
+                    }
+                  }
+                }
+                JOINT LeftHandMiddle1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT LeftHandMiddle2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT LeftHandMiddle3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET 2.3 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT LeftHandIndex1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT LeftHandIndex2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT LeftHandIndex3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET 2.5 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT LeftHandRing1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT LeftHandRing2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT LeftHandRing3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET 2 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT LeftHandPinky1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT LeftHandPinky2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT LeftHandPinky3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET 2.9 0 0
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        JOINT RightShoulder
+        {
+          OFFSET 0 0 0
+          CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+          JOINT RightArm
+          {
+            OFFSET 0 0 0
+            CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+            JOINT RightForeArm
+            {
+              OFFSET 0 0 0
+              CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+              JOINT RightHand
+              {
+                OFFSET -27.8738 0 0
+                CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                JOINT RightHandThumb1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT RightHandThumb2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT RightHandThumb3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET -2.6 -1 1
+                      }
+                    }
+                  }
+                }
+                JOINT RightHandIndex1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT RightHandIndex2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT RightHandIndex3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET -2.6 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT RightHandMiddle1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT RightHandMiddle2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT RightHandMiddle3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET -2.3 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT RightHandRing1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT RightHandRing2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT RightHandRing3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET -2.2 0 0
+                      }
+                    }
+                  }
+                }
+                JOINT RightHandPinky1
+                {
+                  OFFSET 0 0 0
+                  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                  JOINT RightHandPinky2
+                  {
+                    OFFSET 0 0 0
+                    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                    JOINT RightHandPinky3
+                    {
+                      OFFSET 0 0 0
+                      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+                      End Site
+                      {
+                        OFFSET -2.9 0 0
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  JOINT LeftUpLeg
+  {
+    OFFSET 0 0 0
+    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+    JOINT LeftLeg
+    {
+      OFFSET 0 0 0
+      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+      JOINT LeftFoot
+      {
+        OFFSET 0 0 0
+        CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+        JOINT LeftToeBase
+        {
+          OFFSET 0 0 0
+          CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+          End Site
+          {
+            OFFSET 0 0 10.1681
+          }
+        }
+      }
+    }
+  }
+  JOINT RightUpLeg
+  {
+    OFFSET 0 0 0
+    CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+    JOINT RightLeg
+    {
+      OFFSET 0 0 0
+      CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+      JOINT RightFoot
+      {
+        OFFSET 0 0 0
+        CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+        JOINT RightToeBase
+        {
+          OFFSET 0 0 0
+          CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+          End Site
+          {
+            OFFSET 0.0032 0 10.1681
+          }
+        }
+      }
+    }
+  }
+}
+MOTION
+Frames:	30
+Frame Time:	0.0333333
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
+0 96.3794 3.98552 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 -0 -1.#IND 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN -1.#IND 1.#QNAN 1.#QNAN -0 1.#QNAN 1.#QNAN -1.#IND -1.#IND -1.#IND -0 -1.#IND 1.#QNAN -1.#IND -1.#IND -1.#IND -0 1.#QNAN 1.#QNAN 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 0 0 0 0 0 -0 
