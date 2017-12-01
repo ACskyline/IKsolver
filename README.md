@@ -1,4 +1,4 @@
-# IKviewer
+# IKsolver
 This project is an assignment of CIS-562 Computer Animation. The project is about different ways to implement Inverse Kinematics, including geometric method, Cyclic Coordinate Descent and pseudo inverse method.
 ## Geometric Method
 Geometric method, as the name implies, is based on geometric positions. It is a straight forward way to perform IK but the down side is that it can’t solve complicated situations since there are many assumptions applied to make the geometric position relatively easier to be calculated.
